@@ -22,5 +22,12 @@ ul {
 body {
   margin: 0;
   font-family: sans-serif;
-  color: aliceblue;
+  color: #000;
+}
+
+.red {
+  color: red;
+}
+.green {
+  color: green;
 }
